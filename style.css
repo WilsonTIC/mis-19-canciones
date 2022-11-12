@@ -1,0 +1,12 @@
+.titulo1{
+    background-color: rgb(63, 221, 15);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik Bubbles', cursive;
+    
+}
+.titulo2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}

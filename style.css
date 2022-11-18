@@ -1,6 +1,6 @@
 .titulo1{
-    background-color: rgb(117, 89, 192);
-    color: white;
+    background-color: rgba(89, 192, 129, 0.5);
+    color: black;
     display: flex;
     justify-content: center;
     font-family: cursive;
@@ -15,6 +15,15 @@
     justify-content: center;  
 }
 button{
-    background-color: indigo;
-    color: darkgray;
+    background-color: rgba(89, 192, 129, 0.5);
+    color: black;
 }
+.table td{
+    border:  3px solid;
+    text-align: center;
+}
+table th : :hover{
+    background-color: green;
+    color: white;
+}
+button
